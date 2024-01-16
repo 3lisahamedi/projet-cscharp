@@ -23,23 +23,34 @@ Nous avons fait une bonne répartition des taches :
 
 Yassine : 
 Mettre en place une API C# pour la gestion d'inventaire/stock.
+
 Réaliser des opérations CRUD pour les articles et les utilisateurs.
+
 Organisation du groupe 
+
 Organisation des taches
 
 
 Elisa : 
 Création des VM
+
 Configurer un serveur web pour héberger l'API.
+
 Configurer un serveur pour héberger la base de données.
+
 Interagir avec une base de données.
 
 
 Zineb:
 Explorer les notions d'asynchronisme et de requêtes HTTP à l'aide de Postman.
+
 Sécuriser le serveur de base de données en utilisant des contrôles d'accès (ACL).
+
 Gérer les utilisateurs et leurs mots de passe.
+
 Gestion de Trello
+
+
 
 
 Tâches principales
