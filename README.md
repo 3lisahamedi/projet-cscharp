@@ -2,6 +2,7 @@
 
 
 Projet C# de Gestion d'Inventaire et de Stock
+
 Introduction
 
 
@@ -42,47 +43,57 @@ Gestion de Trello
 
 
 Tâches principales
+
+
 1. Mise en place de l'API C#
 Créez une API C# qui permet de gérer les articles et les utilisateurs.
 Assurez-vous que l'API est accessible via HTTP.
 Assurez-vous que l'API est bien documentée (fichier sous format PDF) NB : Utilisez du natif, pas
 de framework autorisé (ASP.NET, etc.)
-2. Opérations CRUD
+
+3. Opérations CRUD
 Implémentez les opérations CRUD pour les articles (Créer, Lire, Mettre à jour, Supprimer).
 Fournissez des API endpoints pour ces opérations.
-3. Serveur Web
+
+5. Serveur Web
 Configurez un serveur web pour héberger votre API.
 Assurez-vous que le serveur web est accessible via HTTP.
 Assurez-vous que l'API est accessible via HTTP.
-4. Notions à aborder
+
+7. Notions à aborder
 Explorez les notions d'asynchrone en C# pour rendre l'API plus performante.
 Lien vers les ressources sur l'asynchrone en C#
 Familiarisez-vous avec les requêtes HTTP en utilisant Postman pour tester votre API.
-Lien installation Postman
-Lien de comment utiliser Postman
 Intégrez la gestion de la base de données MySQL dans votre application.
-Lien vers MySQL documentation
-5. GitHub
+
+8. GitHub
 Utilisez GitHub pour gérer la version de votre code.
 Assurez-vous de collaborer efficacement en utilisant des branches, des pull requests et des
 commentaires.
-6. Gestion de projet avec Trello
+
+
+10. Gestion de projet avec Trello
 Utilisez Trello pour organiser les tâches de votre équipe (les checklists pour suivre le progrès des
 tâches, les dates d'échéance pour vous assurer que le projet est livré à temps, les étiquettes
 pour organiser les tâches par catégorie, etc.)
 Créez des tableaux, des listes, et des cartes pour suivre le progrès du projet.
 Assurez-vous que chaque membre de l'équipe ait un rôle clair et des tâches assignées.
-7. Compartimentalisation des serveurs
+
+
+12. Compartimentalisation des serveurs
 Configurez votre serveur web et votre serveur de base de données sur des machines distinctes
 sous Debian.
 Assurez-vous que les deux serveurs communiquent correctement entre eux.
-8. Architecture
+
+
+14. Architecture
 Assurez-vous que votre code est bien structuré et organisé (interfaces, méthodes, classes,
 plusieurs fichiers, etc.)
-Assurez-vous que votre code est commenté.
 
 
-voilaaaa
+J'espère que vous allez aimer !!
+
+Sincerement
 
 Elisa , Zineb , Yassine
 
