@@ -3,12 +3,17 @@
 
 Projet C# de Gestion d'Inventaire et de Stock
 Introduction
-Bienvenue dans ce projet C# de gestion d'inventaire et de stock qui permettra de mettre en lien votre projet SQL, votre projet C# et votre prochain projet en PHP.
+
+
+Bienvenue dans ce projet C# de gestion d'inventaire et de stock 
+qui permettra de mettre en lien votre projet SQL, votre projet C# et votre prochain projet en PHP.
 
 
 En groupe de trois pour développer une application C# qui permettra de gérer un inventaire de produits, d'effectuer des opérations CRUD (Create, Read, Update, Delete) sur les articles et les utilisateurs, de mettre en place un serveur web, d'explorer des notions avancées telles que l'asynchrone, les requêtes HTTP, l'interaction avec une base de données MySQL, la gestion de
 versions avec GitHub, la gestion de projet avec Trello, et la compartimentalisation des serveurs sous Debian.
 
+voici la documentation pour l'API : https://github.com/3lisahamedi/projet-cscharp/blob/main/documentationAPI.pdf
+voici la documentation pour la création de la vm : https://github.com/3lisahamedi/projet-cscharp/blob/main/Creation_VM%20(1).docx
 voici notre trello  : https://trello.com/b/kCT2P1St/cprojet
 
 Nous avons fait une bonne répartition des taches :
