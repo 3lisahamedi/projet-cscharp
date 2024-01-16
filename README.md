@@ -13,7 +13,9 @@ En groupe de trois pour développer une application C# qui permettra de gérer u
 versions avec GitHub, la gestion de projet avec Trello, et la compartimentalisation des serveurs sous Debian.
 
 voici la documentation pour l'API : https://github.com/3lisahamedi/projet-cscharp/blob/main/documentationAPI.pdf
+
 voici la documentation pour la création de la vm : https://github.com/3lisahamedi/projet-cscharp/blob/main/Creation_VM%20(1).docx
+
 voici notre trello  : https://trello.com/b/kCT2P1St/cprojet
 
 Nous avons fait une bonne répartition des taches :
